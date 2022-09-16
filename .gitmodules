@@ -1,0 +1,3 @@
+[submodule "graphql-demo-client"]
+	path = graphql-demo-client
+	url = https://github.com/benztranwot/graphql-demo-client.git
